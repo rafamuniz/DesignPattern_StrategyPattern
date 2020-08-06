@@ -1,0 +1,13 @@
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csprojAssemblyReference.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfoInputs.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.AssemblyInfo.cs
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.csproj.CoreCompileInputs.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.exe
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.deps.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.runtimeconfig.dev.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.dll
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\bin\Debug\netcoreapp3.1\StrategyPattern.pdb
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.dll
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.pdb
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\StrategyPattern\obj\Debug\netcoreapp3.1\StrategyPattern.genruntimeconfig.cache

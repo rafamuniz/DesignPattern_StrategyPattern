@@ -1,0 +1,13 @@
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.exe
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.deps.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.runtimeconfig.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.runtimeconfig.dev.json
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.dll
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\bin\Debug\netcoreapp3.1\PhoneCameraApp.pdb
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.csprojAssemblyReference.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.AssemblyInfoInputs.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.AssemblyInfo.cs
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.csproj.CoreCompileInputs.cache
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.dll
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.pdb
+D:\Rafael\Projects\GitHub\DesignPattern_StrategyPattern\StrategyPattern\PhoneCameraApp\obj\Debug\netcoreapp3.1\PhoneCameraApp.genruntimeconfig.cache
