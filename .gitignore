@@ -1,0 +1,8 @@
+/v16/
+*.suo
+
+StrategyPattern/StrategyPattern/obj/
+StrategyPattern/StrategyPattern/bin/
+
+StrategyPattern/PhoneCameraApp/obj/
+StrategyPattern/PhoneCameraApp/bin/
